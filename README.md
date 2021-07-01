@@ -1,0 +1,2 @@
+# smartfx
+Forex Simulator
